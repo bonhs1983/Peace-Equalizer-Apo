@@ -7,7 +7,7 @@
 
 **Peace Equalizer APO** is a powerful, user-friendly graphical interface for **Equalizer APO** — the best system-wide parametric equalizer for Windows. Enhance your audio with bass boost, preamp, headphone calibration, gaming profiles, VST plugins, and much more.
 
-<img width="649" height="648" alt="image" src="https://github.com/user-attachments/assets/f69f6068-8dec-4e2b-8559-659efaa864df" />
+<img width="109" height="109" alt="image" src="https://github.com/user-attachments/assets/f69f6068-8dec-4e2b-8559-659efaa864df" />
 
 ## Install
 [Download `Peace-Equalizer.zip`](https://github.com/bonhs1983/Peace-Equalizer-Apo/releases/download/equalizer/Peace-Equalizer.zip)
